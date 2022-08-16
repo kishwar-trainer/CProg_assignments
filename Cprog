@@ -31,3 +31,23 @@ Extra::
 2.Accept number and power from user and Calualte Power of no. eg: 2^4 = 16
 3.Accept number from user and calculate Reverse of no. in other variable
 4.Calculate x+x^2+x^3+……+x^n
+
+--------------------------------------------------------------------------------------------------
+Functions:
+
+1. Accept limit from user and calculate following series: x + x^2/2! - x^3/3! + ......x^n/n!
+Note: make use of separate functions to calculate power and factorial, and note the sequence of + and - is alternate
+2.Write a menu driven program to calculate area and circumference/perimeter of circle, square, triangle and rectangle 
+  using separate functions for every shape and make sure you display both results in main and get the dimentions 
+  in main and pass to function as parameter.
+3. write a program to accept variable length of arguments , and display the sum of it all.
+4. Write user defined function to calculate square root of user entered number.(do not use build-in function)
+5. Accept two numbers from user using separate function find LCM and HCF of numbers.
+6. Write a function to find length of user entered number.
+7. Accept no.from user in main using separate function and find if entered no.is Armstrong no. Or not. 
+It is the no. Where sum of its digits raised to the power of length of number is the original number again. 
+Eg:153,371,1634,8208,9474.
+Note: use separate functions to find lenght of number.
+8. Accept date from user in main in dd/mm/yy format and using function check if date is valid or not and return status.
+9. Write a function to find sum of digit and reverse of no. using single function and print both results in main.
+10. Check whether a number is an Strong number or not. eg: 145 =  1! + 4! + 5!  (sum of factorial of each digit)
