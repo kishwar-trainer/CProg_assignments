@@ -59,3 +59,17 @@ Recursion:
 2. WAP using recursion to print reverse of number for user entered number
 3. WAP using recursion to find factorial of number for user entered number
 Note: Use multiple files(.h, def.c, client.c) for every program and create make file for every program to execute
+----------------------------------------------------------------------------------------------------------------------
+
+Pre-processor::
+
+Write a macro to:
+1. Find max of 2 and similarly Find max of 3 on same program
+2. Print hello using macro
+3. Menu driven program to calculate area and perimeter (same as Question 2 from functions)
+   Use constants for case value
+4. Check if character is alphabet or not. (Hint: Use ternary operator)
+5. Maxro to find Square of number and cube (try nesting of macro square in order to calculate cube)
+6. Menu driven program for Addition of 2 nos,subtraction,Multiplication division
+   Make sure to use constants for case value using character data-type.(eg:: + for addition,* for multiplication)
+ 
