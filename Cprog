@@ -51,3 +51,11 @@ Note: use separate functions to find lenght of number.
 8. Accept date from user in main in dd/mm/yy format and using function check if date is valid or not and return status.
 9. Write a function to find sum of digit and reverse of no. using single function and print both results in main.
 10. Check whether a number is an Strong number or not. eg: 145 =  1! + 4! + 5!  (sum of factorial of each digit)
+--------------------------------------------------------------------------------------------------------------------
+
+Recursion:
+
+1. WAP using recursion to find sum of digits for user entered number
+2. WAP using recursion to print reverse of number for user entered number
+3. WAP using recursion to find factorial of number for user entered number
+Note: Use multiple files(.h, def.c, client.c) for every program and create make file for every program to execute
