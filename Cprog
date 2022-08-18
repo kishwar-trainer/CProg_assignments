@@ -32,6 +32,7 @@ Extra::
 3.Accept number from user and calculate Reverse of no. in other variable
 4.Calculate x+x^2+x^3+……+x^n
 
+
 --------------------------------------------------------------------------------------------------
 Functions:
 
@@ -72,4 +73,37 @@ Write a macro to:
 5. Maxro to find Square of number and cube (try nesting of macro square in order to calculate cube)
 6. Menu driven program for Addition of 2 nos,subtraction,Multiplication division
    Make sure to use constants for case value using character data-type.(eg:: + for addition,* for multiplication)
+ ------------------------------------------------------------------------------------------------------------------------------------
  
+ 1D ARRAY ::
+ NOTE: Every program must have functions one or multiple according to problem statement.
+ 
+1.Write a function to store first 25 prime no’s in an array.(NOTE: It is not prime numbers between 1-25)
+2. Write a program using function to reverse an array.(Do not create new array)
+3. Write a program to store alphabets A-Z in array. (Do not use hard-coded values)
+4. In an array find third highest element.
+5. Make a file which contains the functions to perform the following tasks and test it by including 
+the file in another file which contains main()
+  a. Accept an array 
+  b. Display an array 
+  c. Modify value from array 
+  d. Reverse array 
+  e. Count odd 
+  f. Count even 
+  g. Count prime 
+  h. Maximum value in the array 
+  i. Minimum value in the array 
+  j. Search a value in the array 
+
+6. Write a program to calcualte and store factorial of number 2-10 in and array
+7. Display from array 4 no’s whose product is highest. 
+8. Display perfect numbers from an array.
+9.  Display sum of square root of perfect square from the list of an array.
+10. Write a program to evaluate the expression z=x2+y2, where x and y are 2 arrays. 
+Each array holds 10 user entered elements. Store the result in another array and display it.
+EXTRA::
+11.In an array display two elements whose sum is second highest.
+12. Swap elements at even positions and similarly at odd position in an array.eg: index: 1 and 3, 2 and 4, 5 and 7, 6 and 8
+13. In array display two consecutive nos. Whose sum is second highest.
+14. Write a program to display the minimum and maximum number from an array of 10 integers along with their 
+position from the array. Note : use same loop to find maximum and minmum , do not write 2 blocks for separately.
