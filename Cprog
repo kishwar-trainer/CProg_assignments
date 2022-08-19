@@ -107,3 +107,48 @@ EXTRA::
 13. In array display two consecutive nos. Whose sum is second highest.
 14. Write a program to display the minimum and maximum number from an array of 10 integers along with their 
 position from the array. Note : use same loop to find maximum and minmum , do not write 2 blocks for separately.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+String:: 
+1.  Menu  driven program having user defined logic for strlen, strcpy, strcat,strcmp, strrev
+2. Accept string from user and reverse word by word. eg. Hello world => olleH dlrow
+3. Accept a string from user and count no.of spaces in it.
+4. Accept a string from user and count no.of words in it
+5. Accept a string from user and display count of each vowel in it
+6. Accept a string from user and display count of all alphabets A-Z and a-z and display result in parallel
+   i.e. Apple
+     A=1     a=0
+     B=0     b=0
+     ..........
+     E=0     e=1
+     ..........
+     Z=0     z=0
+     
+7. Accept string from user and split string into separate words.
+8. Accept a string from user and remove all spaces from it and replace with ‘*’
+9. Accept string from user and toggle entire string i.e. uppercase will be converted to lower and vice-versa
+10. Accept full name from user and display the name having surname followed by initials of first and middle name like “Smith John David” will be “David.S.J”
+EXTRA::
+11. “A Stitch In Time Saves Nine” converts all initial letters to capital case.
+12.  Accept employee details and check if entered email contains @ and display if it’s valid or not.
+13. “I have Rs 10, I need Rs 15 more to have my coffee.” Find out cost of coffee without using built in function.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2D Array::
+1. 2D array to store tables 2-7
+2. Accept a 3 digit no from user and store it digitwise in array and its reverse in same array
+3. 2D array to store alphabets capital case and lower case
+4. Using functions find sum of 2 matrixes where write separate function for accept(), display(), sum()
+5. Accept 3X3 array from user display its transpose use functions 
+Accept values from user for 2Darray 3X3
+and create sparse matrix.
+   eg:   0    2   0
+         1    0   0
+         7    0   9
+then sparse matrix is:
+          3   3   4         -> this row_size, col_size,count of non-zero elements
+          0   1   2         -> non-zero value at its position
+          1   0   1
+          2   0   7
+          2   2   9
