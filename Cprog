@@ -152,3 +152,12 @@ then sparse matrix is:
           1   0   1
           2   0   7
           2   2   9
+---------------------------------------------------------------------------------------------------------------------------
+
+DMA::
+1. Accept dimensions from user and write logic for addition of two matrixes.
+   (Use functions allocate,deallocate,accept,display)
+2. Accept no. of elements for 2 different arrays, merge and store in third array in descending order.
+   Note::Do not sort
+3. Accpet no. of flowers from user and accept names of flowers and store all dynamically. 
+   And search if tulip flower is specified or not.
