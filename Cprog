@@ -161,3 +161,14 @@ DMA::
    Note::Do not sort
 3. Accpet no. of flowers from user and accept names of flowers and store all dynamically. 
    And search if tulip flower is specified or not.
+------------------------------------------------------------------------------------------------------------------------------
+
+Structures::
+
+1.Write a program having structure customer with details:: customer id, Full name ,address, date of subscription, 
+and phone no. with city pin.
+Also get ont identiy proof from user.
+Insert and display record of n customer and display.
+Note: Use nested structures for date,union for ID, use fucntions to allocate,deallocate, accept, display.
+
+
