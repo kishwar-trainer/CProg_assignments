@@ -7,7 +7,7 @@ Selection Statements::
 6. Accept sales from user and calculate commission and display total salary (i.e. sales+commission) . Sales:: 20000 20% , 15000 to 20000 15%, 10000 to 15000 10%, 8000 to 10000 8%, 5000 to 8000 5%, less than 5000 no commission
 7. Max of 2nos by ternary
 8. Max of 3nos by ternary
-9. Switch case for add,sub,etc
+9. Switch case to accept 2 values from user and perform arithmetic operation for add,sub,multiple,division.
 10. Switch case for display whether entered no. is digit or not
 11. Switch case character is vowel or not
 12. Accept cp & sp check profit or loss
