@@ -38,9 +38,7 @@ Functions:
 
 1. Accept limit from user and calculate following series: x + x^2/2! - x^3/3! + ......x^n/n!
 Note: make use of separate functions to calculate power and factorial, and note the sequence of + and - is alternate
-2.Write a menu driven program to calculate area and circumference/perimeter of circle, square, triangle and rectangle 
-  using separate functions for every shape and make sure you display both results in main and get the dimentions 
-  in main and pass to function as parameter.
+2. WAP for addition of numners 1-limit using functions
 3. write a program to accept variable length of arguments , and display the sum of it all.
 4. Write user defined function to calculate square root of user entered number.(do not use build-in function)
 5. Accept two numbers from user using separate function find LCM and HCF of numbers.
@@ -53,6 +51,17 @@ Note: use separate functions to find lenght of number.
 9. Write a function to find sum of digit and reverse of no. using single function and print both results in main.
 10. Check whether a number is an Strong number or not. eg: 145 =  1! + 4! + 5!  (sum of factorial of each digit)
 --------------------------------------------------------------------------------------------------------------------
+
+Pointers::
+1. Write a menu driven program to calculate area and circumference/perimeter of circle, square, triangle and rectangle 
+  using separate functions for every shape and make sure you display both results in main and get the dimentions 
+  in main and pass to function as parameter.
+2. WAP to calculate sum of all even numbers and sum of all odd numbers using single function and print both results in main()
+3. WAP to accept 3 values from user in main(). Using function find max of 3 numbers and minimum of 3 nos both using single function
+   and print both result in main()
+   
+Note:: Make sure to use multiple files and makefile for every program
+---------------------------------------------------------------------------------------------------------------------
 
 Recursion:
 
