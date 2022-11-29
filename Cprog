@@ -59,6 +59,7 @@ Pointers::
 2. WAP to calculate sum of all even numbers and sum of all odd numbers using single function and print both results in main()
 3. WAP to accept 3 values from user in main(). Using function find max of 3 numbers and minimum of 3 nos both using single function
    and print both result in main()
+4. WAP to accept numerator and denominator from user and using function find quotient and remainder and print both results in main()
    
 Note:: Make sure to use multiple files and makefile for every program
 ---------------------------------------------------------------------------------------------------------------------
@@ -68,6 +69,8 @@ Recursion:
 1. WAP using recursion to find sum of digits for user entered number
 2. WAP using recursion to print reverse of number for user entered number
 3. WAP using recursion to find factorial of number for user entered number
+4. WAP to displau sum of numbers 1-limit using recursion.
+5. WAU using recursion to display fibonacci series fro user entered limit
 Note: Use multiple files(.h, def.c, client.c) for every program and create make file for every program to execute
 ----------------------------------------------------------------------------------------------------------------------
 
