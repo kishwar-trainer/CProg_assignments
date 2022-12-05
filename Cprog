@@ -177,10 +177,21 @@ DMA::
 
 Structures::
 
-1.Write a program having structure customer with details:: customer id, Full name ,address, date of subscription, 
+1. Write a program for struct Book(bkid, bkname, bkprice, author) and learn how to access value for attributes of struct
+2. Write a program for struct Book(bkid, bkname, bkprice, author)
+   Accept and display details for 3 books using functions for accept and display
+   
+3.Write a program having structure customer with details:: customer id, Full name ,address, date of subscription, 
 and phone no. with city pin.
 Also get ont identiy proof from user.
 Insert and display record of n customer and display.
 Note: Use nested structures for date,union for ID, use fucntions to allocate,deallocate, accept, display.
+
+File Handling::
+1. Write a program to copy data of one file into other file.
+2. Declare a structure Book{book_id,book_name,publisher_name,edition, author_name,price} accept n details from user and store all in file book_detail.txt
+3.  Display details from book_detail.txt and accept book_id from user and delete its record and display again all data.
+4. Write a program to create phone directory having customer's details:: customer id, Full name,address,year of subscription,and phone no. with city pin. Insert record for at least 10 his address so ask user customer id and update address. Customers and recently one customer has changed
+
 
 
